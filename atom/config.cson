@@ -1,0 +1,10 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 11
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "11e1d4b9-d462-4f2a-acda-eb91f471bac7"
