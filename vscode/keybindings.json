@@ -1,0 +1,37 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+cmd+right",
+        "command": "-workbench.action.terminal.resizePaneRight",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+cmd+right",
+        "command": "-workbench.action.terminal.resizePaneRight",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+alt+right",
+        "command": "workbench.action.focusNextGroup"
+    },
+    {
+        "key": "ctrl+alt+left",
+        "command": "workbench.action.focusPreviousGroup"
+    },
+    {
+        "key": "cmd+k down",
+        "command": "workbench.action.splitEditorDown"
+    },
+    {
+        "key": "cmd+k up",
+        "command": "workbench.action.splitEditorUp"
+    },
+    {
+        "key": "cmd+k right",
+        "command": "workbench.action.splitEditorRight"
+    },
+    {
+        "key": "cmd+k left",
+        "command": "workbench.action.splitEditorLeft"
+    }
+]
